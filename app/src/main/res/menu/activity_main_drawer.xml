@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fizika"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/physics" />
+        <item
+            android:id="@+id/nav_kemija"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/chemistry" />
+        <item
+            android:id="@+id/nav_matematika"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/mathematics" />
+        <item
+            android:id="@+id/nav_tehnika"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/technology" />
+        <item
+            android:id="@+id/nav_medicina"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/medicine" />
+        <item
+            android:id="@+id/nav_bilogija"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/biology" />
+        <item
+            android:id="@+id/nav_astronomija"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/astronomy" />
+        <item
+            android:id="@+id/nav_geologija"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/geology" />
+    </group>
+
+    <item android:title="Important sites">
+        <menu>
+            <item
+                android:id="@+id/nav_eureka"
+                android:icon="@drawable/ic_favorite_white_24dp"
+                android:title="Eureka" />
+            <item
+                android:id="@+id/nav_favorite"
+                android:icon="@drawable/ic_favorite_white_24dp"
+                android:title="Favorite" />
+            <item
+                android:id="@+id/nav_history"
+                android:icon="@drawable/ic_favorite_white_24dp"
+                android:title="History" />
+        </menu>
+    </item>
+
+</menu>

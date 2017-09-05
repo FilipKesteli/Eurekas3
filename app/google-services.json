@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "162892940806",
+    "firebase_url": "https://eurekas3-a65e3.firebaseio.com",
+    "project_id": "eurekas3-a65e3",
+    "storage_bucket": "eurekas3-a65e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162892940806:android:6725db599d349f11",
+        "android_client_info": {
+          "package_name": "com.kesteli.filip.eurekas3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162892940806-rurktrbtn5t4t5hgknei5g4bl8dvjdsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kesteli.filip.eurekas3",
+            "certificate_hash": "f8bc37e66d01e828e631ca9770f0b6d4b425da54"
+          }
+        },
+        {
+          "client_id": "162892940806-ke29am09k0m68k1hfvtuj9lvc8qr8bth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1iup2C6rZpYer1FyyRhdDdXlcHO7juWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162892940806-ke29am09k0m68k1hfvtuj9lvc8qr8bth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
